@@ -2,7 +2,7 @@
 
 An AI-powered Summarizer that transforms lengthy web articles into clear and concise summaries. Built with React, Vite, and Tailwind CSS, this application utilizes the RapidAPI Article Extractor & Summarizer to deliver accurate summaries instantly.
 
-## ✨ Features
+##  Features
 
 - **Instant Summarization:** Paste any article URL and receive a concise, point-by-point summary.
 - **Multilingual Support:** Summarize articles in English, Spanish, French, German, or Chinese!
@@ -12,14 +12,14 @@ An AI-powered Summarizer that transforms lengthy web articles into clear and con
 - **History Management:** Your previous searches are saved in local storage. Easily copy links or delete old entries.
 - **Download & Share:** Export your summaries as a `.txt` file or share them directly to Twitter/X with a quick intent link.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Framework:** React.js powered by Vite for lightning-fast development
 - **Styling:** Tailwind CSS
 - **Network Requests:** Axios
 - **External API:** [Article Extractor and Summarizer via RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to set up the project locally on your machine.
 
