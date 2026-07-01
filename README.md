@@ -56,6 +56,6 @@ Follow these instructions to set up the project locally on your machine.
 5. **Open the application:**
    Navigate to `http://localhost:5173` in your web browser.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repository and submit pull requests to help improve the application.
